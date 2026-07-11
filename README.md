@@ -496,14 +496,21 @@ Firewall-as-a-Service (FWaaS)
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Authors
 
-**Keshav Sonawane**
-*
-**Arya Kadam**
+## Keshav Sonawane
+- Cybersecurity Enthusiast
+- AI/ML Developer
+- Flutter Developer
 
-Cybersecurity | AI/ML | Flutter Developer
+## Arya Kadam
+- Co-Developer
+- Cybersecurity & Software Development Contributor
 
+---
+
+**Project Areas:**  
+Cybersecurity | Artificial Intelligence | Machine Learning | Network Security | Flutter Development
 ---
 
 # ⭐ Project Status
