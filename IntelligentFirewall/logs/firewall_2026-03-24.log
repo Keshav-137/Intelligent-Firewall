@@ -1,0 +1,7 @@
+{"stage": "SYSTEM", "action": "INFO", "reason": "\ud83d\ude80 Intelligent Firewall starting all stages...", "timestamp": "11:33:33"}
+{"stage": "SYSTEM", "action": "INFO", "reason": "All stage threads launched", "timestamp": "11:33:33"}
+{"stage": "SYSTEM", "action": "INFO", "reason": "Stage 5: EDR Sysmon monitor STARTED", "timestamp": "11:33:33"}
+{"stage": "SYSTEM", "action": "INFO", "reason": "Stage 6: Zero Trust monitor STARTED", "timestamp": "11:33:33"}
+{"stage": "Stage5", "action": "ERROR", "reason": "(5, 'EvtQuery', 'Access is denied.')", "timestamp": "11:33:33"}
+{"stage": "SYSTEM", "action": "INFO", "reason": "Stage 1+2: Packet capture + Rule engine STARTED", "timestamp": "11:33:35"}
+{"stage": "SYSTEM", "action": "INFO", "reason": "\ud83d\uded1 All stages stopped", "timestamp": "11:33:39"}

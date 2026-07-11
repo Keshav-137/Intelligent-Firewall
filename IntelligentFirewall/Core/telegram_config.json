@@ -1,0 +1,10 @@
+{
+  "bot_token": "",
+  "chat_id": "",
+  "enabled": false,
+  "alert_on_block": true,
+  "alert_on_flood": true,
+  "alert_on_attack": true,
+  "alert_on_edr": true,
+  "min_severity": "HIGH"
+}

@@ -1,0 +1,50 @@
+{
+  "blocked_ips": [
+    "1.2.3.4",
+    "5.6.7.8"
+  ],
+  "blocked_ports": [
+    4444,
+    5555,
+    6666,
+    31337,
+    23,
+    21,
+    1,
+    7934,
+    894,
+    34
+  ],
+  "allowed_protocols": [
+    "TCP",
+    "UDP",
+    "ICMP"
+  ],
+  "flood_threshold": 100,
+  "rules": [
+    {
+      "name": "Block Metasploit",
+      "type": "port",
+      "value": 4444,
+      "action": "BLOCK"
+    },
+    {
+      "name": "Block Telnet",
+      "type": "port",
+      "value": 23,
+      "action": "BLOCK"
+    },
+    {
+      "name": "Block FTP",
+      "type": "port",
+      "value": 21,
+      "action": "BLOCK"
+    },
+    {
+      "name": "Block Backdoor",
+      "type": "port",
+      "value": 31337,
+      "action": "BLOCK"
+    }
+  ]
+}
